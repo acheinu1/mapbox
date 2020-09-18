@@ -1,0 +1,857 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nadrem fried chicken",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6480865478516, 9.141799864334823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "nadrem stores fha kubwa",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6496529579163, 9.142456602455715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Virginia pavillion plaza fha kubwa",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.646369934082, 9.141079569519036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name ": "Gbodi clothings",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6468849182129, 9.142456602455715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Agson superstores kubwa",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6489233970641, 9.141651568462452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gods Grace store",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6492238044739, 9.144384439618964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "yahuza suya spot",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6506185531616, 9.142710823338557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "accord hotel kubwa",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6516270637512, 9.143304004692542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "zee tea fast food",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6496529579163, 9.143409929830325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "High-dee stitches kubwa",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6525926589966, 9.144151404912211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shenik Lingerie + Jewelry",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6536226272583, 9.1445327343529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "classique health pharmacy",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6540732383728, 9.144829323635447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "iyabo's place",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6556396484375, 9.145316576920235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Domato Business center phase 3 kubwa",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.656090259552, 9.143833630066236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "cynthia cosmetics & make up store",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6554679870605, 9.146142787487264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quick-med Pharmacy & stores",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6563262939453, 9.145358946739561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "mama charly bar",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6571202278137, 9.145994493424169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "T-wine Planet Nigeria ",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6567983627319, 9.14571909000019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Phavours Exclusive Boutique",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6576566696167, 9.145697905112595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Plan B bar and restaurant",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6584291458129, 9.145676720223738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zuba in kubwa",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6592445373534, 9.144935248319314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mr Biggs kubwa",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6600813865662, 9.144977618184035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mobyx  Pharmacy kubwa",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6596522331238, 9.145464871265812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mama Akeems Executive",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6599740982056, 9.1465664844699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arlington hotels and suites",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6619052886963, 9.145189467432001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sazum Water",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6646947860718, 9.146142787487264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kefas Medicine store",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6619911193847, 9.14722321379601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "GruzPlace",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6650381088256, 9.1465664844699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "water pharmacy",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6653277873993, 9.147074920183156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Perfect Touch Hairdressing Salon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.664544582367, 9.147382099741197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ellicot Citi Suites",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6511979103088, 9.151354225310177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oven Cute Bakery",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6491808891296, 9.152519373729884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Gayyata hotel",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6482582092285, 9.149129840455577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chicken republic kubwa",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.649781703949, 9.153451489717114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Unity clinic & maternity",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6526999473572, 9.154150575104056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "anikels place",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6525926589966, 9.149850118978923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jameela Plaza",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6510262489318, 9.152138052849098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Keystone Bank kubwa",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6498031616211, 9.15290069420179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Abacha Capital Bar",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.651584148407, 9.154277681390376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Diamond Bank kubwa",
+        "status": "Not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6575708389282, 9.153748071564289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "chemzo plaza",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6591157913208, 9.153663333918914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The pizza place abuja",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6592016220093, 9.154425972000316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "mercy plaza",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6551246643066, 9.15332438313546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "eltobico pharmacy",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6556825637817, 9.152858325280665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Duveino Suites",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6567554473877, 9.153981099984954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Emedan superstore",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6572060585022, 9.152964247574026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Novel Pharmacy & stores",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6589441299438, 9.15531571436112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": " Guarantee trust bank",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.659888267517, 9.153875177994497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "fidelity bank",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6606178283691, 9.154214128252903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "nadrem cafe",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6615190505981, 9.154087021943862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "MTN office",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6615190505981, 9.154595446907376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nadrem Plaza",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6621842384338, 9.1537904403794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Godfather place",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6637291908264, 9.153430305289985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wilson super market",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6628494262695, 9.15400228437926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "theresa ben",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6602959632874, 9.151820285136129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NICKYS PLACE shopping mall",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6593518257141, 9.149680641810514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Soul lounge",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6581501960754, 9.148261267355503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": " Biga Ventures Auto Mart",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6604247093201, 9.149765380404814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blessed IK Ventures Nigeria",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6623773574829, 9.14970182646098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "House 5",
+        "status": "not paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6498889923095, 9.15645966555297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Johnmay Guest House",
+        "status": "paid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-712.6522922515869, 9.15768834976959]
+      }
+    }
+  ]
+}
