@@ -1,34 +1,3 @@
-updateMap = () => {
-  fetch('/assets/geojson/data.json')
-    .then((response) => response.json())
-    .then((rsp) => {
-      console.log(rsp.features);
-      rsp.features.forEach((element) => {
-        longitude = element.geometry.coordinates[0];
-        latitude = element.geometry.coordinates[1];
-
-        // to change markers colours based on payment status================= line 11-17
-        status = element.properties.status;
-        if(status==="not paid"){
-            color="red";
-        }
-        else{
-            color="green"
-        }
-        // to change markers colours based on payment status===================
-        // mark on the map
-        new mapboxgl.Marker({
-            draggable:false,
-            color:"red",
-        })
-        .setLngLat([longitude, latitude])
-        .addTo(map);
-      });
-    });
-};
-
-updateMap();
-
 //  mapbox cdn===================================================
 
 mapboxgl.accessToken =
@@ -49,3 +18,37 @@ zoom: 15,
 
 });
 //  mapbox cdn===================================================
+
+
+updateMap = () => {
+  fetch('/assets/geojson/data.json')
+    .then((response) => response.json())
+    .then((rsp) => {
+      console.log(rsp.features);
+      rsp.features.forEach((element) => {
+        longitude = element.geometry.coordinates[0];
+        latitude = element.geometry.coordinates[1];
+
+        // to change markers colours based on payment status================= line 11-17
+        cases = element.properties.status;
+        if (cases === "paid"){
+            color = "rgb(0,128,0)";
+        }
+
+        else{
+            // color = `rgb(${cases}, 0, 0)`;
+            color = "rgb(255,0,0)";
+        }
+
+        // Mark on the map
+        new mapboxgl.Marker({
+            draggable: false,
+            color: color
+        }).setLngLat([longitude, latitude])
+        .addTo(map); 
+      });
+    });
+};
+
+updateMap();
+
